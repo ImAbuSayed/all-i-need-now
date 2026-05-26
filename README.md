@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-i-need-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for All I Need Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-i-need-now/) |
+| **Get License** | [Official Music Licensing for All I Need Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-i-need-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c80d3b07f3b5db349c8b9a44412835d17c07e60275e08665b6f88deba26fed39` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

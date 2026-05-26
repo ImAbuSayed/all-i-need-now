@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - All I Need Now
+
+This log tracks the cryptographic history and versioning for the song **All I Need Now** (all-i-need-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:14:57.836486 | `v1` | `c80d3b07f3b5db349c8b9a44412835d17c07e60275e08665b6f88deba26fed39` | `df6535524b02bba0b22a4318e13c746854427e2d659f9e3fbca28c6829184ea3` | `2026-05-26_all-i-need-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
