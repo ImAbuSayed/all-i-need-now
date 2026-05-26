@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/all-i-need-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for All I Need Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-i-need-now/) |
+| **Get License** | [Music Rights & Licensing for All I Need Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/all-i-need-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I don't need the whiskey, I don't need the wine
+> Just the way your shadow tangles up with mine
+> Midnight creeping in and the world slows down
+> You're the only thing that I need now
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
